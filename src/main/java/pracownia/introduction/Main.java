@@ -9,6 +9,7 @@ public class Main {
     public static void main(String [ ] args) {
         System.out.println("Hello World");
         System.out.println("To żyje!");
+        System.out.println("To żyje!");
 
         logger.info("Welcome to Programming Laboratory");
     }
